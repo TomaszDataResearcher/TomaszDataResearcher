@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataAnalysis, Forecasting time series
 - 🌱 I’m currently learning Python, SQL.
 - 💞️ I’m great at Microsoft Office, especially Excel and VBA for Excel.
-
+- 💞️ I have basic knowledge about R programming.
 
 <!---
 TomaszDataResearcher/TomaszDataResearcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
